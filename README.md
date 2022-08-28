@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Baptiste AUBERT</h1>
 <h3 align="center">A fullstack developer from 🔵⚪🔴</h3>
 
-- 🔭 I’m currently working at **SGAMI-SE**
+- 🔭 I’m working at **SGAMI-SE**
 
-- 🌱 I’m currently learning **Symfony, React, Spring**
+- 🌱 I’m learning **Symfony, React, Spring**
 
-- 🏫 I'm currently studying at [Polytech Lyon](https://polytech.univ-lyon1.fr/)
+- 🏫 I'm studying at [Polytech Lyon](https://polytech.univ-lyon1.fr/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
