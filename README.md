@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Baptiste AUBERT</h1>
 <h3 align="center">A fullstack developer from 🔵⚪🔴</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bapttiste73" alt="bapttiste73" /></a> </p>
-
 - 🔭 I’m currently working at **SGAMI-SE**
 
 - 🌱 I’m currently learning **Symfony, React, Spring**
 
-- 🏫 I am currently studying at [Polytech Lyon](https://polytech.univ-lyon1.fr/)
+- 🏫 I'm currently studying at [Polytech Lyon](https://polytech.univ-lyon1.fr/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
