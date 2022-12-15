@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://dev.to/bapttiste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bapttiste" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/baptiste-aubert-341821194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baptiste-aubert-341821194" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/trebua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="trebua" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
