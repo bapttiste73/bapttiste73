@@ -3,7 +3,7 @@
 
 - 🔭 I’m working at [**SGAMI-SE**](https://www.linkedin.com/company/secr%C3%A9tariat-g%C3%A9n%C3%A9ral-pour-l-administration-du-minist%C3%A8re-de-l-int%C3%A9rieur-sud-est-sgami-sud-est/mycompany/)
 
-- 🌱 I mainly develop in **PHP, Symfony 6, Twig, API Platform**
+- 🌱 I mainly develop in **PHP, Symfony 6, Twig, API Platform, VueJs**
 
 - 🏫 I'm studying at [Polytech Lyon](https://polytech.univ-lyon1.fr/)
 
